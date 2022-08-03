@@ -4,6 +4,4 @@ description: Descrição aqui
 
 # Canais
 
-{% hint style="info" %}
-EM BREVE
-{% endhint %}
+Paragrafo aqui
