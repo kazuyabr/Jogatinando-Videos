@@ -13,6 +13,7 @@
 * [Propaganda](funcionamento/marketing.md)
 * [Gameficação](funcionamento/gameficacao.md)
 * [Tokenomics](funcionamento/tokenomics.md)
+* [Timeline](funcionamento/timeline.md)
 
 ## Guias
 
