@@ -4,12 +4,14 @@
 
 ## Funcionamento
 
+* [Base Geral](funcionamento/base-geral.md)
 * [Video](funcionamento/video.md)
 * [Publicações](funcionamento/publicacoes.md)
 * [Comentarios](funcionamento/comentarios.md)
 * [Canais](funcionamento/canais.md)
 * [Inscrições](funcionamento/inscricoes.md)
-* [Marketing](funcionamento/marketing.md)
+* [Propaganda](funcionamento/marketing.md)
+* [Gameficação](funcionamento/gameficacao.md)
 * [Tokenomics](funcionamento/tokenomics.md)
 
 ## Guias
