@@ -18,3 +18,7 @@
 ## Guias
 
 * [Publicando](guias/publicando.md)
+
+## Problematica
+
+* [Categorização](problematica/categorizacao.md)
