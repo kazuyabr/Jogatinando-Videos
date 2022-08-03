@@ -16,4 +16,10 @@
 
 ## Guias
 
+* [Criando seu Canal](guias/criando-seu-canal.md)
+* [Editando seu conteúdo](guias/editando-seu-conteudo.md)
 * [Publicando](guias/publicando.md)
+* [Streaming](guias/streaming.md)
+* [Comentando](guias/comentando.md)
+* [Interagindo com o VIDEO](guias/interagindo-com-o-video.md)
+* [Interagindo nas Streamings](guias/interagindo-nas-streamings.md)

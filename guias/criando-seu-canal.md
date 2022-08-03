@@ -1,4 +1,4 @@
-# Tokenomics
+# Criando seu Canal
 
 {% hint style="info" %}
 EM BREVE

@@ -1,8 +1,8 @@
 ---
-description: Descrição aqui
+description: Abrindo uma Live
 ---
 
-# Canais
+# Streaming
 
 {% hint style="info" %}
 EM BREVE

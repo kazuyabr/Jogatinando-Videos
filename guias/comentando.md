@@ -1,8 +1,8 @@
 ---
-description: Descrição aqui
+description: Como comentar nos videos
 ---
 
-# Canais
+# Comentando
 
 {% hint style="info" %}
 EM BREVE
